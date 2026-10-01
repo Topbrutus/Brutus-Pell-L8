@@ -2,7 +2,7 @@
 
 **Author:** Gabriel St-Pierre  
 **Public alias:** TopBrutus  
-**Version:** 1.0.1  
+**Version:** 1.0.0  
 **Date:** 2026-10-01
 
 This repository isolates the Brutus-Pell **L8 exact-rank relation** and the first recorded explicit computational witness for the target q = 47.

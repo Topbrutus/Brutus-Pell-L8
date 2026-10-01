@@ -2,7 +2,7 @@
 
 **Gabriel St-Pierre**  
 TopBrutus  
-Version 1.0.1 - 2026-10-01
+Version 1.0.0 - 2026-10-01
 
 ## Abstract
 
