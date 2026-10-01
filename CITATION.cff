@@ -3,9 +3,9 @@ message: "If you use this work, please cite it using the metadata below."
 title: "Brutus-Pell L8 Exact-Rank Relation and an Explicit q=47 Witness"
 type: preprint
 authors:
-  - family-names: "Saint-Pierre"
+  - family-names: "St-Pierre"
     given-names: "Gabriel"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-10-01"
 repository-code: "https://github.com/Topbrutus/Brutus-Pell-L8"
 keywords:

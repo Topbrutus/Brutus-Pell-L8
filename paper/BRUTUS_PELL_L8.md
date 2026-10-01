@@ -1,8 +1,8 @@
 # Brutus-Pell L8 Exact-Rank Relation and an Explicit q=47 Witness
 
-**Gabriel Saint-Pierre**  
+**Gabriel St-Pierre**  
 TopBrutus  
-Version 1.0.0 - 2026-10-01
+Version 1.0.1 - 2026-10-01
 
 ## Abstract
 
@@ -204,7 +204,7 @@ The Brutus evidence gate deliberately kept automatic proof promotion disabled. T
 
 ## 13. Priority note
 
-The label **L8** and this exact publication trace identify the formulation as used in the Brutus project by Gabriel Saint-Pierre.
+The label **L8** and this exact publication trace identify the formulation as used in the Brutus project by Gabriel St-Pierre.
 
 No claim is made here that classical strong divisibility, rank-of-appearance theory, primitive divisor theory, or related Lucas-sequence results are new.
 

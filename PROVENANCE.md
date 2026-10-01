@@ -1,6 +1,6 @@
 # Provenance
 
-Author: Gabriel Saint-Pierre  
+Author: Gabriel St-Pierre  
 Project alias: TopBrutus  
 Isolation date: 2026-10-01
 

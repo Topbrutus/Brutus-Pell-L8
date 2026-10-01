@@ -5,7 +5,7 @@
   "description": "A dated publication-grade record of the Brutus-Pell L8 exact-rank relation for the Pell sequence and an explicit q=47 computational witness. The release separates standard Pell/Lucas facts, the project-specific L8 formulation, the derivation, and the independently verified computational witness.",
   "creators": [
     {
-      "name": "Saint-Pierre, Gabriel"
+      "name": "St-Pierre, Gabriel"
     }
   ],
   "keywords": [
@@ -16,7 +16,7 @@
     "computational number theory",
     "GMP-ECM"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publication_date": "2026-10-01",
   "related_identifiers": [
     {
