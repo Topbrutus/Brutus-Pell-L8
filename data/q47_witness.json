@@ -1,0 +1,28 @@
+{
+  "schema": "BRUTUS-PELL-L8-WITNESS-v1",
+  "author": "Gabriel Saint-Pierre",
+  "date": "2026-10-01",
+  "q": 47,
+  "q_squared": 2209,
+  "Q_digits": 828,
+  "Q_sha256": "59ce8bd15e4bbfbec0403b55231ee2919425739d929a32787aa3135f9891d634",
+  "prime_factor": "424675575059690484579658261789171649",
+  "factor_digits": 36,
+  "factor_primality_verified": true,
+  "Q_mod_factor": "0",
+  "P_1_mod_factor": "1",
+  "P_47_mod_factor": "345869461223138161",
+  "P_2209_mod_factor": "0",
+  "exact_rank": 2209,
+  "remaining_cofactor_digits": 792,
+  "remaining_cofactor_sha256": "978b7253d1665b4c59168fed591b9844db1faf9020b675776ef6a274ba36f570",
+  "factorization_status": "PARTIAL",
+  "gmp_ecm": {
+    "version": "7.0.6",
+    "curves_requested": 50,
+    "B1": "3e6",
+    "B2": null,
+    "stop_on_first_factor": true,
+    "runtime_seconds": 3258.22
+  }
+}
