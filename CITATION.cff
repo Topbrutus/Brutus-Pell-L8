@@ -5,6 +5,7 @@ type: preprint
 authors:
   - family-names: "St-Pierre"
     given-names: "Gabriel"
+    orcid: "https://orcid.org/0009-0009-9297-2336"
 version: "1.0.0"
 date-released: "2026-10-01"
 repository-code: "https://github.com/Topbrutus/Brutus-Pell-L8"
